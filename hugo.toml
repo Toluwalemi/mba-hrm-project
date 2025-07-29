@@ -34,17 +34,17 @@ paginatePath = "page"
   # Global CTA Configuration
   [params.cta]
     enable = true
-    title = "Ready to Build Your SaaS Website?"
-    description = "Join companies already using our theme to create beautiful, high-performance websites."
+    title = "Ready to Empower Your Institution's Learning?"
+    description = "Join leading African higher education institutions already partnering with SophiLearn to deliver seamless virtual learning and unlock student potential."
     gradient_from = "#2563eb"  # Indigo-600
     gradient_to = "#7c3aed"    # Purple-600
     gradient_angle = 30
     [params.cta.primary_button]
       text = "Get Started Free"
-      url = "/get-started"
+      url = "/"
     [params.cta.secondary_button]
       text = "Book Demo"
-      url = "/demo"
+      url = "/"
   
   # Social Media Links
   [params.social]
@@ -183,10 +183,10 @@ paginatePath = "page"
     name = "Pricing"
     url = "/pricing"
     weight = 2
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog"
-    weight = 3
+ # [[menu.main]]
+ #   name = "Blog"
+  #  url = "/blog"
+  #  weight = 3
   [[menu.main]]
     name = "Company"
     weight = 4

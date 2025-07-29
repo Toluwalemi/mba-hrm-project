@@ -11,7 +11,7 @@ description: "Learn about our mission, leadership team, and the investors backin
         <div class="max-w-3xl mx-auto bg-white rounded-xl shadow-sm p-8">
             <h2 class="text-3xl font-bold mb-4">Our Mission</h2>
             <p class="text-xl text-gray-600">
-                We're dedicated to empowering businesses with innovative SaaS solutions that drive growth and efficiency. Our platform combines cutting-edge technology with intuitive design to solve complex business challenges.
+                To be the leading enabler of accessible, high-quality virtual education in African tertiary institutions, fostering a future where geographical and socio-economic barriers no longer limit academic potential.
             </p>
         </div>
     </div>

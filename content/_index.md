@@ -27,8 +27,8 @@ testimonials:
 ---
 
 {{< hero 
-    headline="Build Your SaaS Website"
-    sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
+    headline="Unlock Academic Potential Across Africa"
+    sub_headline="Empower tertiary institutions with an adaptive virtual learning platform. Our AI-enhanced LMS delivers accessible, high-quality education, designed for seamless performance and flexibility across the continent."
     primary_button_text="Get Started Free"
     primary_button_url="#"
     secondary_button_text="View Demo"
@@ -42,51 +42,51 @@ testimonials:
 {{< client-logos animate="true" >}}
 
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Redefining Virtual Education"
+    description="Discover how SophiLearn's intelligent platform empowers African tertiary institutions, enabling seamless virtual learning, secure assessments, and personalised educational experiences for all."
 >}}
 
 {{< feature
-    title="Lightning-Fast Performance"
-    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Performance"
+    title="Uninterrupted Learning, Anywhere"
+    description="SophiLearn's platform is engineered for reliability and accessibility, ensuring uninterrupted, high-quality virtual education even in challenging network environments across Africa."
+    badge="Accessibility"
     badgeColor="#2563eb"
     image="/images/feature-1.svg"
     buttonText="Learn More"
-    buttonLink="/features/performance/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    buttonLink="/"
+    features="Offline content access & synchronisation, Secure & reliable assessment tools,Low-bandwidth optimisation for all features,Mobile-first design for broad device compatibility"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Beautiful Design System"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Design"
+    title="Intuitive Design for Seamless Learning"
+    description="We craft accessible and engaging user interfaces, ensuring that every interaction within SophiLearn's LMS is intuitive and supports effective learning for all African users."
+    badge="User Experience"
     badgeColor="#7c3aed"
     image="/images/feature-2.svg"
     buttonText="Learn More"
-    buttonLink="/features/design-system/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    buttonLink="/"
+    features="User-friendly interfaces,Adaptive layouts for diverse devices,Engaging visual elements for enhanced learning experiences,Consistent experience for students and educators"
     imagePosition="left"
 >}}
 
 {{< feature
-    title="Developer Experience"
-    description="Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
-    badge="Development"
+    title="Robust Engineering for Continuous Innovation"
+    description="Our platform is built on a robust, adaptable architecture, ensuring high performance, easy maintenance, and seamless integration of advanced features for enduring educational impact."
+    badge="Engineering Excellence"
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
     buttonText="Learn More"
     buttonLink="/features/developer-experience/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    features="Optimised for low-bandwidth environments & offline capabilities,Easy customization,Secure and maintainable codebase,Detailed documentation"
     imagePosition="right"
 >}}
 
 {{< /features-section >}}
 
 {{< testimonials 
-    title="Trusted by Modern Web Teams"
-    description="See how teams are building better websites with our theme."
+    title="Partnering for Academic Excellence"
+    description="Hear from our partners on how SophiLearn is transforming virtual learning across African higher education."
     animate="true"
     background-color="#f1f5f9"
 >}}
