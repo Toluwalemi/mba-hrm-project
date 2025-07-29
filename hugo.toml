@@ -48,12 +48,9 @@ paginatePath = "page"
   
   # Social Media Links
   [params.social]
-    linkedin = "https://linkedin.com/in/chaomingli"
-    twitter = "https://twitter.com/lichaoming"
-    youtube = "https://youtube.com/@chaomingli"
-    facebook = "https://facebook.com/lichaoming"
-    instagram = "https://instagram.com/lichaoming"
-    github = "https://github.com/chaoming"
+    linkedin = "https://linkedin.com/"
+    twitter = "https://twitter.com/"
+    github = "https://github.com/toluwalemi"
   
   # Footer Configuration
   [params.footer]
@@ -92,12 +89,12 @@ paginatePath = "page"
       # Sign In button
       [params.header.buttons.signIn]
         text = "Sign in"
-        url = "/signin"
+        url = "/"
       
       # Get Started button
       [params.header.buttons.getStarted]
         text = "Get Started"
-        url = "/get-started"
+        url = "/"
 
   # Blog configuration
   [params.blog]
@@ -199,23 +196,23 @@ paginatePath = "page"
 
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
-    name = "Performance"
-    url = "/features/performance/"
+    name = "Accessibility"
+    url = "/"
     weight = 1
   [[menu.footer_column_1]]
-    name = "Design System"
-    url = "/features/design-system/"
+    name = "User Experience"
+    url = "/"
     weight = 2
   [[menu.footer_column_1]]
-    name = "Developer Experience"
-    url = "/features/developer-experience/"
+    name = "Engineering Excellence"
+    url = "/"
     weight = 3
 
   # Footer Column 2 Menu
-  [[menu.footer_column_2]]
-    name = "Blog"
-    url = "/blog"
-    weight = 1
+  #[[menu.footer_column_2]]
+   # name = "Blog"
+   # url = "/blog"
+   # weight = 1
   [[menu.footer_column_2]]
     name = "About Us"
     url = "/company"
@@ -232,5 +229,5 @@ paginatePath = "page"
     weight = 1
   [[menu.footer_column_3]]
     name = "Privacy Policy"
-    url = "/privacy"
+    url = "/"
     weight = 2

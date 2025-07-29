@@ -77,7 +77,7 @@ testimonials:
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
     buttonText="Learn More"
-    buttonLink="/features/developer-experience/"
+    buttonLink="/"
     features="Optimised for low-bandwidth environments & offline capabilities,Easy customization,Secure and maintainable codebase,Detailed documentation"
     imagePosition="right"
 >}}
