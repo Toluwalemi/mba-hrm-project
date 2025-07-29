@@ -1,6 +1,6 @@
 baseURL = "https://saasify-demo.chaoming.li/"
 languageCode = "en-us"
-title = "SophiLearn: Empowering Education in Africa"
+title = "SophiLearn"
 
 # Theme Config
 theme = "hugo-saasify-theme"
