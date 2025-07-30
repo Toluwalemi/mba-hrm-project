@@ -1,6 +1,6 @@
 ---
 title: "Join Our Team"
-description: "Be part of a team that's revolutionizing the SaaS industry with innovative solutions and a people-first culture."
+description: "Be part of a team that's revolutionising African higher education with innovative solutions and a people-first culture."
 layout: "career"
 
 culture_section:
@@ -10,14 +10,14 @@ culture_section:
   image_caption: "Join our amazing team!"
   values:
     - icon: "🌟"
-      title: "Innovation First"
-      description: "We encourage creative thinking and empower our team to push boundaries and explore new possibilities."
+      title: "Innovation-Driven"
+      description: "We encourage creative thinking and empower our team to push boundaries, experiment with new ideas, and explore possibilities that transform learning, embodying our Learning Agility and drive for Excellence."
     - icon: "🤝"
       title: "Collaborative Spirit"
-      description: "We believe in the power of teamwork and foster an environment where everyone's voice is heard and valued."
+      description: "We believe in the power of teamwork and nurture an environment where every voice is heard, valued, and contributes to collective success through Nurturing Collaboration."
     - icon: "🌱"
       title: "Growth Mindset"
-      description: "We invest in our team's development and provide opportunities for continuous learning and advancement."
+      description: "We invest in our team's professional development and provide unparalleled opportunities for continuous learning and career advancement in EdTech, reflecting our Learning Agility and commitment to Empowerment."
 
 benefits_section:
   title: "Why Join Us?"
