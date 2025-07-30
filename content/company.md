@@ -41,7 +41,7 @@ description: "Learn about our mission, leadership team, and the investors backin
             >}}
             {{< team-member 
                 name="Oladele Olamide"
-                title="Header of HR"
+                title="Head of HR"
                 image="/images/company/exec-3.svg"
                 linkedin="#"
             >}}
