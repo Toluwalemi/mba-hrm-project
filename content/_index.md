@@ -12,18 +12,18 @@ client_logos:
   - name: "Customer 5"
     logo: "/images/logos/customer-5.png"
 testimonials:
-  - name: "John Smith"
-    title: "CTO at TechStartup"
+  - name: "Dr. Adebayo Adekunle"
+    title: "Vice-Chancellor, Stellar University of Science & Technology"
     avatar: "/images/testimonial-1.svg"
-    quote: "We built our SaaS website in record time. The performance is incredible, and our users love the modern, clean design."
-  - name: "Sarah Johnson"
-    title: "Founder at WebFlow"
+    quote: "SophiLearn has truly revolutionised our outreach. Its robust platform ensures that our students, even those in remote areas, have consistent access to quality education. It's a fundamental step towards bridging Africa's digital divide."
+  - name: "Prof. Halima Musa"
+    title: "Dean of Faculty of Education, Apex College of Education"
     avatar: "/images/testimonial-1.svg"
-    quote: "The combination of Hugo and TailwindCSS delivers lightning-fast performance. Our website loads instantly, which has significantly improved our conversion rates."
-  - name: "Michael Chen"
-    title: "Lead Developer at CloudTech"
+    quote: "The ease of managing courses and conducting secure online examinations with SophiLearn is outstanding. It has significantly improved our faculty's efficiency and boosted student engagement in virtual classrooms."
+  - name: "Jude Okoro"
+    title: "Final Year Student, National Polytechnic, Keffi"
     avatar: "/images/testimonial-1.svg"
-    quote: "This theme made it easy to create a professional SaaS website. The build times are incredibly fast, and the code is clean and maintainable."
+    quote: "SophiLearn made my virtual learning experience so seamless. The ability to download materials and study offline, then sync later, means I can learn effectively from anywhere. It's truly empowering for students like me."
 ---
 
 {{< hero 
