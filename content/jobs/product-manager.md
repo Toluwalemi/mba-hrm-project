@@ -27,7 +27,7 @@ As a Product Designer, you'll be responsible for:
 - Familiarity with Learning Management Systems (LMS) functionality and educational technology products is highly desirable.
 - Experience working within an agile development methodology and collaborating closely with engineering teams.
 
-## Skills:
+## Skills
 
 - Design Software Proficiency: Expert-level proficiency with industry-standard design and prototyping tools (e.g., Figma, Sketch, Adobe XD, Axure RP).
 - UX Research Tools: Experience with user research tools (e.g., Maze, UserTesting) and analytics platforms to gather and interpret user data.
