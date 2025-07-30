@@ -34,7 +34,7 @@ As a Product Designer, you'll be responsible for:
 - Prototyping: Ability to create interactive prototypes to effectively communicate design concepts.
 - Design Systems: Experience in developing, maintaining, and applying design systems and component libraries.
 - Accessibility Standards: Solid understanding and practical application of web accessibility guidelines (e.g., WCAG).
-- Front-End Understanding (Basic): Basic knowledge of HTML, CSS, and JavaScript to facilitate effective communication with developers.
+- Basic knowledge of HTML, CSS to facilitate effective communication with developers.
 - Strong ability to generate novel, intuitive, and engaging design solutions for complex educational challenges.
 - Excellent interpersonal, communication, and presentation skills to effectively work within cross-functional teams and articulate design rationale to various stakeholders.
 - A genuine and demonstrable passion for leveraging design and technology to improve educational access and quality in Africa.
