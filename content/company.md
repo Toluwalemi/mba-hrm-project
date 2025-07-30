@@ -6,8 +6,8 @@ description: "Learn about our mission, leadership team, and the investors backin
 
 {{< section-container class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32" >}}
     <div class="text-center">
-        <h1 class="text-4xl md:text-5xl font-bold mb-6">Building the Future of SaaS</h1>
-        <p class="text-xl text-gray-600 mb-16">We're on a mission to revolutionize how businesses operate in the digital age</p>
+        <h1 class="text-4xl md:text-5xl font-bold mb-6">Shaping the Future of African Higher Education</h1>
+        <p class="text-xl text-gray-600 mb-16">We're on a mission to revolutionise how African tertiary institutions deliver accessible and effective learning</p>
         <div class="max-w-3xl mx-auto bg-white rounded-xl shadow-sm p-8">
             <h2 class="text-3xl font-bold mb-4">Our Mission</h2>
             <p class="text-xl text-gray-600">
@@ -20,22 +20,28 @@ description: "Learn about our mission, leadership team, and the investors backin
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
         <h2 class="text-3xl font-bold text-center mb-12">Leadership Team</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
             {{< team-member 
-                name="Sarah Johnson"
+                name="Sanni Ayobami Comfort"
                 title="Chief Executive Officer"
                 image="/images/company/exec-1.svg"
                 linkedin="#"
             >}}
             {{< team-member 
-                name="Michael Chen"
+                name="Toluwalemi Oluwadare"
                 title="Chief Technology Officer"
                 image="/images/company/exec-2.svg"
                 linkedin="#"
             >}}
             {{< team-member 
-                name="Emily Rodriguez"
+                name="Godwin Uzoamaka Mary"
                 title="Chief Product Officer"
+                image="/images/company/exec-3.svg"
+                linkedin="#"
+            >}}
+            {{< team-member 
+                name="Oladele Olamide"
+                title="Header of HR"
                 image="/images/company/exec-3.svg"
                 linkedin="#"
             >}}
@@ -60,19 +66,19 @@ description: "Learn about our mission, leadership team, and the investors backin
         <h2 class="text-3xl font-bold text-center mb-12">Company Values</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< value-card 
-                title="Innovation First"
+                title="Empowerment & Excellence"
                 icon="lightbulb"
-                description="We constantly push boundaries and embrace new technologies to solve complex challenges."
+                description="We empower our teams with autonomy and accountability, fostering an environment where individuals can take initiative, make decisions, and achieve their full potential."
             >}}
             {{< value-card 
-                title="Customer Success"
+                title="Relentless Impact"
                 icon="users"
-                description="Our customers' success is our success. We're committed to delivering exceptional value."
+                description="We are driven by a relentless focus on creating tangible, positive impact on education and society."
             >}}
             {{< value-card 
-                title="Transparency"
+                title="Nurturing Collaboration"
                 icon="eye"
-                description="We believe in open communication and building trust through transparency."
+                description="We believe in the power of open communication, respect, and shared purpose."
             >}}
         </div>
     </div>
@@ -81,9 +87,9 @@ description: "Learn about our mission, leadership team, and the investors backin
 {{< section-container class="py-20" >}}
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
-            {{< stat number="2015" label="Founded" >}}
-            {{< stat number="200+" label="Team Members" >}}
-            {{< stat number="10k+" label="Customers" >}}
+            {{< stat number="2025" label="Founded" >}}
+            {{< stat number="10+" label="Team Members" >}}
+            {{< stat number="10+" label="Customers" >}}
             {{< stat number="50M+" label="Annual Revenue" >}}
         </div>
     </div>
