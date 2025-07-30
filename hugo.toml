@@ -1,4 +1,4 @@
-baseURL = "https://saasify-demo.chaoming.li/"
+baseURL = "https://sophilearn.netlify.app/"
 languageCode = "en-us"
 title = "SophiLearn"
 
@@ -172,13 +172,13 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Performance", url = "/features/performance/" },
-        { name = "Design System", url = "/features/design-system/" },
-        { name = "Developer Experience", url = "/features/developer-experience/" }
+        { name = "Accessibility", url = "/" },
+        { name = "User Experience", url = "/" },
+        { name = "Engineering Excellence", url = "/" }
       ]
   [[menu.main]]
     name = "Pricing"
-    url = "/pricing"
+    url = "/"
     weight = 2
  # [[menu.main]]
  #   name = "Blog"
